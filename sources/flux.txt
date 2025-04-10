@@ -1,0 +1,54 @@
+# kubernetes
+https://kubernetes.io/feed.xml
+https://k3s.io/feed.xml
+https://cilium.io/blog/index.xml
+https://helm.sh/blog/index.xml
+https://kubernetes.io/blog/index.xml
+
+# Blog officiel de la CNCF
+https://www.cncf.io/feed/
+
+# KubeWeekly - Newsletter hebdomadaire sur Kubernetes par la CNCF
+https://www.cncf.io/feed/?post_type=lf_kubeweekly
+
+# Section Kubernetes de DevOps.com
+https://devops.com/category/kubernetes/feed/
+
+# Blog de The New Stack sur Kubernetes
+https://thenewstack.io/category/kubernetes/feed/
+
+# Podcast Kubernetes par Google
+https://kubernetespodcast.com/feeds/audio.xml
+
+
+
+# gitlab
+https://about.gitlab.com/feeds/releases.xml
+
+
+# terraform
+https://www.hashicorp.com/blog/index.xml
+https://discuss.hashicorp.com/c/terraform/24.rss
+
+# cloud
+#https://aws.amazon.com/blogs/security/feed/
+#https://azure.microsoft.com/en-us/blog/feed/
+#https://cloud.google.com/blog/rss/
+#https://krebsonsecurity.com/feed/
+#https://dev.to/feed
+#https://hnrss.org/frontpage
+
+
+# Blog officiel d'OVHcloud
+https://blog.ovhcloud.com/feed/
+
+# Salle de presse d'OVHcloud
+https://corporate.ovhcloud.com/en/newsroom/feed/
+
+# Page de statut des services OVHcloud
+https://status.ovhcloud.com/feed/
+
+# Communiqués de presse OVHcloud sur PR Newswire
+https://www.prnewswire.com/rss/ovhcloud-us-news.rss
+
+

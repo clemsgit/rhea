@@ -1,0 +1,4 @@
+[packages]
+openai = "*"
+feedparser = "*"
+python-dotenv = "*"
