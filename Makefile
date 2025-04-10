@@ -13,3 +13,6 @@ publish:
 	git add exports/
 	git commit -m "💾 Veille du $(shell date +'%Y-%m-%d')"
 	git push
+
+# Génère la veille ET la pousse sur Git
+deploy: veille publish

@@ -21,14 +21,20 @@ https://thenewstack.io/category/kubernetes/feed/
 https://kubernetespodcast.com/feeds/audio.xml
 
 
+# --- Rancher ---
+https://www.suse.com/c/rancherblog/feed/
+https://forums.rancher.com/c/announcements.rss
+https://www.claudiokuenzler.com/Rancher/rss
+https://www.kloia.com/blog/tag/rancher/rss.xml
+
 
 # gitlab
 https://about.gitlab.com/feeds/releases.xml
 
 
 # terraform
-https://www.hashicorp.com/blog/index.xml
-https://discuss.hashicorp.com/c/terraform/24.rss
+#https://www.hashicorp.com/blog/index.xml
+#https://discuss.hashicorp.com/c/terraform/24.rss
 
 # cloud
 #https://aws.amazon.com/blogs/security/feed/
