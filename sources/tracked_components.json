@@ -1,0 +1,6 @@
+{
+  "k3s": {
+    "url": "https://github.com/k3s-io/k3s/releases.atom",
+    "current": "v1.29.4+k3s1"
+  }
+}

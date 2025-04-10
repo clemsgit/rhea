@@ -27,22 +27,30 @@ https://forums.rancher.com/c/announcements.rss
 https://www.claudiokuenzler.com/Rancher/rss
 https://www.kloia.com/blog/tag/rancher/rss.xml
 
+# Flux GitHub K3s Releases
+https://github.com/k3s-io/k3s/releases.atom
+
+# GitLab CI/CD Updates
+https://gitlab.com/gitlab-org/gitlab/-/tags?format=atom
+
+
+# --- GitHub / GitLab Releases ---
+
+https://github.com/k3s-io/k3s/releases.atom
+https://github.com/moby/moby/releases.atom
+https://github.com/hashicorp/terraform/releases.atom
+https://github.com/cilium/cilium/releases.atom
+https://github.com/helm/helm/releases.atom
+https://github.com/goharbor/harbor/releases.atom
+https://gitlab.com/gitlab-org/gitlab/-/tags?format=atom
+
+
 
 # gitlab
 https://about.gitlab.com/feeds/releases.xml
 
 
-# terraform
-#https://www.hashicorp.com/blog/index.xml
-#https://discuss.hashicorp.com/c/terraform/24.rss
 
-# cloud
-#https://aws.amazon.com/blogs/security/feed/
-#https://azure.microsoft.com/en-us/blog/feed/
-#https://cloud.google.com/blog/rss/
-#https://krebsonsecurity.com/feed/
-#https://dev.to/feed
-#https://hnrss.org/frontpage
 
 
 # Blog officiel d'OVHcloud

@@ -16,3 +16,7 @@ publish:
 
 # Génère la veille ET la pousse sur Git
 deploy: veille publish
+
+
+versions-check:
+	pipenv run python rhea/versions.py
